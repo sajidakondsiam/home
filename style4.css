@@ -1,0 +1,23 @@
+button{
+    color: white;
+    padding: 10px 20px;
+    background-color: rgb(7, 5, 127);
+    border-radius: 10px;
+}
+button:hover{
+    background-color: blue;
+}
+body{
+    background-image: url(back.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+.btn{
+    position: absolute;
+    top: 39.5%;
+    left: 43%;
+}
